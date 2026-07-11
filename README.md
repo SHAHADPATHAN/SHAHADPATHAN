@@ -663,14 +663,14 @@ Currently focusing on building strong foundations in Data Science, Machine Learn
 
 ---
 
-# 🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHAHADPATHAN&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SHAHADPATHAN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -685,12 +685,8 @@ Currently focusing on building strong foundations in Data Science, Machine Learn
 
 # 🐍 Contribution Snake
 
-
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/SHAHADPATHAN/SHAHADPATHAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+  <img src="https://raw.githubusercontent.com/SHAHADPATHAN/SHAHADPATHAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ---
